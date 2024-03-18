@@ -1,4 +1,4 @@
-# 📈 GISETTE handwritten digit recognition problem
+# 📈 GISETTE Handwritten Digit Recognition Problem
 
 ## ✏️ Introduction
 
@@ -6,7 +6,7 @@ Group assignment for the Data Analytics & Data Driven Decisions course.
 
 Using Machine Learning models to separate the highly confusable handwritten digits '4' and '9'. Based on the Gisette dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/170/gisette).
 
-We performed classification on the Gisette Dataset in 4 different ways using 5 different models and saved them as separate run-able codes.
+We performed the Gisette Dataset classification on 4 differently treated datasets using 5 different models and saved them as separate run-able codes.
 
 See the `Final Presentation.pdf` file for a summary and conclusion of our work.
 
